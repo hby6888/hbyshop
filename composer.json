@@ -2,6 +2,7 @@
     "name": "hby6888/hbyshop",
     "description": "根据UA判断浏览器类型和版本，操作系统，设备型号 ",
     "keywords": ["browser", "os", "operating system", "language", "detection","浏览器","操作系统","设备型号"],
+     "type": "library",
     "authors": [
         {
             "name": "apanly",
