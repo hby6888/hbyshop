@@ -1,5 +1,5 @@
 {
-    "name": "anerg2046/alidayu",
+    "name": "hby6888/hbyshop",
     "description": "zidingyi",
     "type": "library",
     "license": "MIT",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "anerg\\Alidayu\\": "src"
+            "apanly\\BrowserDetector\\": "ceshi"
         }
     }
 }
