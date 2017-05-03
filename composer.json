@@ -1,23 +1,22 @@
 {
-    "name": "hby6888/hbyshop",
-    "description": "根据UA判断浏览器类型和版本，操作系统，设备型号 ",
-    "keywords": ["browser", "os", "operating system", "language", "detection","浏览器","操作系统","设备型号"],
-     "type": "library",
+    "name": "anerg2046/alidayu",
+    "description": "zidingyi",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.1.0",
     "authors": [
         {
-            "name": "apanly",
-            "email": "apanly@163.com"
+            "name": "Coeus",
+            "email": "r.anerg@gmail.com"
         }
     ],
-    "homepage":"http://www.vincentguo.cn",
-    "license":"MIT",
     "require": {
-        "php": "^5.3.3 || ^7.0"
+        "php": ">=5.6.0",
+
     },
     "autoload": {
         "psr-4": {
-            "hby\\hbyshop\\": "ceshi"
+            "anerg\\Alidayu\\": "src"
         }
     }
 }
-
